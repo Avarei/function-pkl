@@ -1,5 +1,5 @@
 # function-pkl
-[![CI](https://github.com/crossplane-contrib/function-pkl/actions/workflows/ci.yml/badge.svg)](https://github.com/crossplane-contrib/function-pkl/actions/workflows/ci.yml)
+[![CI](https://github.com/avarei/function-pkl/actions/workflows/ci.yml/badge.svg)](https://github.com/avarei/function-pkl/actions/workflows/ci.yml)
 
 This [composition function][functions] allows to deploy [Crossplane Managed Resources][crossplane] from [Pkl Packages][pkl].
 
@@ -35,7 +35,7 @@ spec:
       spec:
         type: uri
         # This pkl file is at `pkl/crossplane-example/full.pkl` in this repo
-        uri: "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane-example@1.0.0#/full.pkl"
+        uri: "package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane-example@1.0.0#/full.pkl"
 ```
 
 ### Example

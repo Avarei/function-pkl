@@ -9,4 +9,4 @@ crds {
 
 // The Package references to be used within the new Module
 k8sImportPath = "@k8s" // package://pkg.pkl-lang.org/pkl-k8s/k8s@<version>#
-crossplaneImportPath = "@crossplane.contrib" // package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@<version>#
+crossplaneImportPath = "@crossplane.contrib" // package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib@<version>#

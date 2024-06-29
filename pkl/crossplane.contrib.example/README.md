@@ -7,7 +7,7 @@ Either can be converted to a Pkl Module.
 ## Create XRD
 When Creating a Pkl file ensure it amends CompositeResourceDefinition
 ```pkl
-amends "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crospslane.contrib.xrd@1.0.0#/CompositeResourceDefinition.pkl"
+amends "package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crospslane.contrib.xrd@1.0.0#/CompositeResourceDefinition.pkl"
 ```
 
 view [xrds/ExampleXR.pkl](xrds/ExampleXR.pkl) for more details on how to Build it.
@@ -71,9 +71,9 @@ Pkl Packages can be released to any https server.
 
 This Project uses the GitHub to store the artifacts within releases.
 Using pkg.pkl-lang.org as the domain helps with redirecting the requests from
-- https://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane@x.y.z
+- https://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane@x.y.z
   <br>to
-- https://github.com/crossplane-contrib/function-pkl/releases/download/crossplane@x.y.z/crossplane@x.y.z
+- https://github.com/avarei/function-pkl/releases/download/crossplane@x.y.z/crossplane@x.y.z
 
 When the Package is released it can be used in the Composition.
 See [example/full/composition.yaml](../../example/full/composition.yaml)

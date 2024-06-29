@@ -38,9 +38,9 @@
     },
     "package://pkg.pkl-lang.org/pkl-k8s/k8s@1": {
       "type": "remote",
-      "uri": "projectpackage://pkg.pkl-lang.org/pkl-k8s/k8s@1.0.1",
+      "uri": "projectpackage://pkg.pkl-lang.org/pkl-k8s/k8s@1.1.0",
       "checksums": {
-        "sha256": "75c6d66d94c335417a3c502e107aaeadf7a60b4e1d34b2c979afe11193205a1a"
+        "sha256": "9ca6002419e405a19b517d506490b46be9279556b5ef2664be0e836df80535e5"
       }
     },
     "package://pkg.pkl-lang.org/pkl-pantry/org.openapis.v3@2": {
@@ -50,9 +50,9 @@
         "sha256": "a3ce491d0e504c14d456d599f988bbb4a2b77915696450dfd65b8e4cef7c9522"
       }
     },
-    "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@1": {
+    "package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib@1": {
       "type": "local",
-      "uri": "projectpackage://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@1.0.0",
+      "uri": "projectpackage://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib@1.0.0",
       "path": "../crossplane.contrib"
     }
   }

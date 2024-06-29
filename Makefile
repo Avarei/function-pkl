@@ -1,5 +1,5 @@
-REPO =? github.com/crossplane-contrib/function-pkl
-CONTAINER_IMAGE =? ghcr.io/crossplane-contrib/function-pkl
+REPO =? github.com/avarei/function-pkl
+CONTAINER_IMAGE =? ghcr.io/avarei/function-pkl
 
 # Target used for Pkl Package Releases
 TARGET =? $(shell git branch --show-current)

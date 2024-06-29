@@ -43,5 +43,5 @@ dependencies {
   ["syntax"] { uri = "package://pkg.pkl-lang.org/pkl-pantry/pkl.experimental.syntax@1.0.2" }
   ["openapiv3"] { uri = "package://pkg.pkl-lang.org/pkl-pantry/org.openapis.v3@2.1.1" }
 
-  ["k8s"] { uri = "package://pkg.pkl-lang.org/pkl-k8s/k8s@1.0.1" }
+  ["k8s"] { uri = "package://pkg.pkl-lang.org/pkl-k8s/k8s@1.1.0" }
 }

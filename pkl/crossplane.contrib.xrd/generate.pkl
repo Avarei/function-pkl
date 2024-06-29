@@ -84,7 +84,7 @@ crossplaneVersion: String(semver.isValid(this)) = "1.0.0"
 /// ```
 k8sImportPath: String = "package://pkg.pkl-lang.org/pkl-k8s/k8s@\(k8sVersion)#"
 
-crossplaneImportPath: String = "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@\(crossplaneVersion)#"
+crossplaneImportPath: String = "package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib@\(crossplaneVersion)#"
 
 /// Where to find the CRDs; can be a URI (`https:`, `file:` etc), an absolute file path, or a relative file path
 source: String = read?("prop:source") ?? ""
