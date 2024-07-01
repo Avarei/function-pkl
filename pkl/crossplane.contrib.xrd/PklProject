@@ -17,7 +17,7 @@
 /// Templates for configuring [Kubernetes](https://kubernetes.io).
 amends "pkl:Project"
 
-local repo = "github.com/crossplane-contrib/function-pkl"
+local repo = "github.com/avarei/function-pkl"
 
 package {
   name = "crossplane.contrib.xrd"

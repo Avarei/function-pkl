@@ -50,9 +50,9 @@
         "sha256": "9ca6002419e405a19b517d506490b46be9279556b5ef2664be0e836df80535e5"
       }
     },
-    "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib.xrd@1": {
+    "package://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib.xrd@1": {
       "type": "local",
-      "uri": "projectpackage://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib.xrd@1.0.0",
+      "uri": "projectpackage://pkg.pkl-lang.org/github.com/avarei/function-pkl/crossplane.contrib.xrd@1.0.0",
       "path": "../crossplane.contrib.xrd"
     },
     "package://pkg.pkl-lang.org/pkl-pantry/org.openapis.v3@2": {
