@@ -25,9 +25,7 @@ requirements {
       apiVersion = "v1"
       kind = "Node"
       match {
-        matchLabels {
-          labels {}
-        }
+        matchName = "k3d-crossy-server-0"
       }
     }
   }
