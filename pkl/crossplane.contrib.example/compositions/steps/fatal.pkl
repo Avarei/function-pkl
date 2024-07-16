@@ -1,0 +1,8 @@
+amends "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@0.0.1#/CompositionResponse.pkl"
+
+results {
+  new {
+    severity = "Fatal"
+    message = "i <3 to fail"
+  }
+}

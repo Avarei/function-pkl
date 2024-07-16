@@ -1,0 +1,3 @@
+amends "package://pkg.pkl-lang.org/github.com/crossplane-contrib/function-pkl/crossplane.contrib@0.0.1#/CompositionResponse.pkl"
+
+results = throw("i'd like to complain")
